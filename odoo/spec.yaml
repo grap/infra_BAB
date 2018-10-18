@@ -1,0 +1,15 @@
+odoo:
+    modules: []
+    src: https://github.com/OCA/OCB 10.0
+
+odoo-addons-company-wizard:
+    modules: []
+    src: https://github.com/odoo-cae/odoo-addons-company-wizard 10.0
+
+odoo-addons-cae:
+    modules: []
+    src: https://github.com/odoo-cae/odoo-addons-cae 10.0
+
+odoo-addons-multi-company:
+    modules: []
+    src: https://github.com/odoo-cae/odoo-addons-multi-company 10.0
